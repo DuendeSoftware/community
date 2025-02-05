@@ -1,8 +1,8 @@
-# Duende Software Community
+# Duende Software Developer Community
 
-👋 Welcome to the Duende Software Community!
+👋 Welcome to the Duende Software Developer Community!
 
-We are using [Discussions](https://github.com/DuendeSoftware/community/discussions) as a place to connect with other members of our community:
+We are using [Discussions](https://github.com/DuendeSoftware/community/discussions) as a place to connect with other members of our developer community:
 
 * Ask questions you’re wondering about.
 * Share ideas.
