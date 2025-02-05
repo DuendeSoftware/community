@@ -11,6 +11,12 @@ We are using [Discussions](https://github.com/DuendeSoftware/community/discussio
 
 This is a community we build together, and we're looking forward to your contributions 💪. Welcome others and be open-minded.
 
+## Newsletter
+
+Get the latest Duende Software news in your inbox! We typically only share significant news and release information.
+
+[✉️ Sign up to the Duende Software newsletter](http://eepurl.com/hnN1y9)
+
 ## Support for Duende Software products
 
 As part of [Discussions](https://github.com/DuendeSoftware/community/discussions), you can:
