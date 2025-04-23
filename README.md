@@ -11,16 +11,21 @@ We are using [Discussions](https://github.com/DuendeSoftware/community/discussio
 
 This is a community we build together, and we're looking forward to your contributions 💪. Welcome others and be open-minded.
 
-## Newsletter
+## ✉️ Newsletter
 
 Get the latest Duende Software news in your inbox! We typically only share significant news and release information.
 
 [✉️ Sign up to the Duende Software newsletter](http://eepurl.com/hnN1y9)
 
-## Support for Duende Software products
+## 🙋 Support for Duende Software products
 
 As part of [Discussions](https://github.com/DuendeSoftware/community/discussions), you can:
 
 * Ask a question about [IdentityServer](https://github.com/DuendeSoftware/community/discussions/categories/identityserver)
 * Ask a question about [BFF](https://github.com/DuendeSoftware/community/discussions/categories/bff)
 * Ask a question about [Open Source](https://github.com/DuendeSoftware/community/discussions/categories/open-source) (e.g. `Duende.AccessTokenManagement`)
+
+## 📙 Recent blog posts
+
+<!--START_SECTION:feed-->
+<!--END_SECTION:feed-->
