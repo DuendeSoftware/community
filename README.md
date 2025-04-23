@@ -24,8 +24,3 @@ As part of [Discussions](https://github.com/DuendeSoftware/community/discussions
 * Ask a question about [IdentityServer](https://github.com/DuendeSoftware/community/discussions/categories/identityserver)
 * Ask a question about [BFF](https://github.com/DuendeSoftware/community/discussions/categories/bff)
 * Ask a question about [Open Source](https://github.com/DuendeSoftware/community/discussions/categories/open-source) (e.g. `Duende.AccessTokenManagement`)
-
-## 📙 Recent blog posts
-
-<!--START_SECTION:feed-->
-<!--END_SECTION:feed-->
