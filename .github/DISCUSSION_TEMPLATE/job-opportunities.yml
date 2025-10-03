@@ -1,14 +1,15 @@
 body:
   - type: markdown
-    value: |
-      Rules:
-      * The job posting must be relevant to the Duende community.
-      * Use a descriptive title, including location/company name/remote/...
-      * General .NET-related jobs are ideally not posted in this category. There has to be a large component of Duende-related work involved (IdentityServer, BFF, ...)
-      * When the role is filled or cancelled, please close the discussion. We may close discussions after a period of time at our own discretion.
-      * Do not spam this category.
-      
-      We may remove this category at any point in time if we see it is abused, however we do want to facilitate making connections.
+    attributes:
+      value: |
+        Rules:
+        * The job posting must be relevant to the Duende community.
+        * Use a descriptive title, including location/company name/remote/...
+        * General .NET-related jobs are ideally not posted in this category. There has to be a large component of Duende-related work involved (IdentityServer, BFF, ...)
+        * When the role is filled or cancelled, please close the discussion. We may close discussions after a period of time at our own discretion.
+        * Do not spam this category.
+        
+        We may remove this category at any point in time if we see it is abused, however we do want to facilitate making connections.
   - type: input
     attributes:
       label: "Job title"
