@@ -1,42 +1,35 @@
 body:
   - type: input
-    id: title
     attributes:
       label: "Job title"
     validations:
       required: true
   - type: input
-    id: location
     attributes:
       label: "Location"
     validations:
       required: true
   - type: input
-    id: company
     attributes:
       label: "Company"
     validations:
       required: true
   - type: input
-    id: company_url
     attributes:
       label: "Company website"
       placeholder: "https://example.com"
     validations:
       required: true
   - type: markdown
-    id: description
     attributes:
       label: "Description"
       description: "Describe the job opportunity. Include relevant details, including whether remote work is allowed etc."
     validations:
       required: true
   - type: markdown
-    id: how_to_apply
     attributes:
       label: "How to apply?"
       description: "How does one apply?"
   - type: markdown
-    id: anything_else
     attributes:
       label: "Anything else?"
