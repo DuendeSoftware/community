@@ -20,16 +20,16 @@ body:
       placeholder: "https://example.com"
     validations:
       required: true
-  - type: markdown
+  - type: textarea
     attributes:
       label: "Description"
       description: "Describe the job opportunity. Include relevant details, including whether remote work is allowed etc."
     validations:
       required: true
-  - type: markdown
+  - type: textarea
     attributes:
       label: "How to apply?"
       description: "How does one apply?"
-  - type: markdown
+  - type: textarea
     attributes:
       label: "Anything else?"
