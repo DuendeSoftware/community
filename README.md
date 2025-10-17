@@ -15,7 +15,7 @@ This is a community we build together, and we're looking forward to your contrib
 
 Get the latest Duende Software news in your inbox! We typically only share significant news and release information.
 
-[✉️ Sign up to the Duende Software newsletter](http://eepurl.com/hnN1y9)
+[✉️ Sign up to the Duende Software newsletter](https://share.hsforms.com/1vdmyh9FBRuKLH5DOKf0mLgs8jwp)
 
 ## 🙋 Support for Duende Software products
 
